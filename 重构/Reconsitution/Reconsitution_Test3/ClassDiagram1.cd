@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Reconsitution.Customer">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAEAAAIAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomerModel\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reconsitution.Movie">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>MovieModel\Movie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reconsitution.Rental">
+    <Position X="2.25" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAEAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>RentalModel\Rental.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reconsitution_Test3.Program">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAgAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reconsitution_Test3.CalculatingManager">
+    <Position X="9.75" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAABABAAAAAQACBAAAAAAA=</HashCode>
+      <FileName>RentalModel\CalculatingModel\CalculatingManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reconsitution_Test3.ChildrenCalculating" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAADAAAAAAAAAAAAAAAAAAAIAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>RentalModel\CalculatingModel\ChildrenCalculating.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ICalculating" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Reconsitution_Test3.NewCalculating" BaseTypeListCollapsed="true">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAADAAAAAAAAAAAAAAAAAAAIAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>RentalModel\CalculatingModel\NewCalculating.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ICalculating" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Reconsitution_Test3.OrdinaryCalculating" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAADAAAAAAAAAAAAAAAAAAAIAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>RentalModel\CalculatingModel\OrdinaryCalculating.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ICalculating" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Reconsitution_Test3.ICalculating">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAIAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>RentalModel\CalculatingModel\ICalculating.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Reconsitution.MovieType">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAEAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MovieModel\MovieType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

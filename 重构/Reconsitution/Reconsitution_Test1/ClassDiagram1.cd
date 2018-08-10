@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Reconsitution.Customer" Collapsed="true">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAIAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomerModel\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reconsitution.Movie" Collapsed="true">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>MovieModel\Movie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reconsitution.Rental" Collapsed="true">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>RentalModel\Rental.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reconsitution_Test1.Program">
+    <Position X="6.75" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEBAAAAAAgAAAAAAEAAAAAIAAAAAAAABAgEAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Reconsitution.MovieType" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAEAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MovieModel\MovieType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,7 @@
+D:\Reconsitution\Reconsitution_Test3\bin\Debug\Reconsitution_Test3.exe.config
+D:\Reconsitution\Reconsitution_Test3\bin\Debug\Reconsitution_Test3.exe
+D:\Reconsitution\Reconsitution_Test3\bin\Debug\Reconsitution_Test3.pdb
+D:\Reconsitution\Reconsitution_Test3\obj\Debug\Reconsitution_Test3.csprojAssemblyReference.cache
+D:\Reconsitution\Reconsitution_Test3\obj\Debug\Reconsitution_Test3.csproj.CoreCompileInputs.cache
+D:\Reconsitution\Reconsitution_Test3\obj\Debug\Reconsitution_Test3.exe
+D:\Reconsitution\Reconsitution_Test3\obj\Debug\Reconsitution_Test3.pdb
